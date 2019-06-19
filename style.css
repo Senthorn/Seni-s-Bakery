@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding:0;
+    
+	
+}
+
+header
+{
+
+ background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("https://platedcravings.com/wp-content/uploads/2017/09/Pumpkin-Cupcake-with-Brown-Butter-Frosting-Plated-Cravings-6.jpg");
+ height: 100vh;
+ background-size: cover;
+ background-position: left;
+
+
+}
+
+
+ul
+{
+    float: center ;
+    margin-top: 0px;
+    list-style: none;
+}
+
+ul li
+{
+ display: inline-flex; 
+}
+
+
+ul li a
+{
+    color:cornsilk;
+    text-decoration: black;
+    padding: 5px 80px;
+    font-family:"roboto",sans-serif;
+    font-size: 15px;
+    margin-top: 35px
+}
+
+
+.main-nav li a:hover
+{
+    border: 1px solid azure;  
+
+}
+
+.hero
+{
+position: absolute;
+width: 1200px;
+margin-left: 0px;
+margin-top: 0px;
+}
+
+h2
+{
+color:lavenderblush 
+text-transform: uppercase;
+text-align: left
+font-family: 'Roboto',sans-serif
+font-style: italic
+margin-top: 180px
+font-size: 50px
+}
+
+
+.button
+
+{
+
+    margin-top: 380px;
+    margin-left: 600px;
+
+    
+}
+
+.btn-one
+{
+    border: 3pt solid ivory;
+    padding: 10px 30px;
+    color:cornsilk;
+    margin-right: 170px;
+    font-size: 30px;
+    background-color: chocolate;
+    font-family: "roboto",sans-serif
+}
+
+
+
+
+
